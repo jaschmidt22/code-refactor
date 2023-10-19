@@ -1,4 +1,3 @@
-
 # <Horiseon Marketing Webpage Code Refactoring>
 
 ## Description
