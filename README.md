@@ -14,6 +14,9 @@ N/A
 
 The Horiseon Marketing webpage has information on the services they provide, including Search Engine Optimization, Online Reputation Management, and Social Media Marketing. Since the site has been refactored with semantic elements, each section of the page will be clearly identified by assistive technologies. The content of the webpage is now sequentially ordered to improve performance of assistive technologies. Lastly, each image contained in the website now has a description that can be read by a screen reader for the visually impaired. 
 
+![Alt text](image.png)
+
+
 ## License
 
 MIT License
